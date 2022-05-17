@@ -43,7 +43,7 @@ header nav a:hover{
  /*fime principal*/
  .filme-principal{
    font-size: 16px;
-   background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url('/imag/capa casa.jpg');
+   background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('../imag/capa\ casa.jpg');
 
    height: 600px;
    background-size: cover;
