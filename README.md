@@ -26,8 +26,8 @@ você usa formatações condicionais dependendo do tamanho máximo ou no mínimo
 - [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)  
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-### Pages: 
-https://mizarocha.github.io/Clone-do-Netflix/
+### Deploy:   
+https://clone-do-netflix-sage.vercel.app/
 
 
 ## Página Principal:
